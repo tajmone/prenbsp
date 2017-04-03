@@ -11,7 +11,10 @@ Windows command line tool to optimize html documents containing source code snip
 
 Standalone executable (c. 200 Kb). Created with André Simon’s [Highlight](http://www.andre-simon.de/doku/highlight/en/highlight.php) tool in mind — but works with any syntax highlighter and on any html document.
 
-Pre-compiled binary available for download.
+Pre-compiled binary available for download:
+
+-   [PRENBSP v1.0 (32 bit)](https://github.com/tajmone/prenbsp/releases/download/v1.0/prenbsp_v1.0_Win_x86_binary.zip)
+-   [PRENBSP v1.0 (64 bit)](https://github.com/tajmone/prenbsp/releases/download/v1.0/prenbsp_v1.0_Win_x86-64_binary.zip)
 
 ------------------------------------------------------------------------
 
