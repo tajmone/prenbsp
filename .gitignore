@@ -1,0 +1,30 @@
+# ******************************************************************************
+# *                                                                            *
+# *                       PRENBSP / PureBASIC .gitignore                       *
+# *                                                                            *
+# ******************************************************************************
+# Don't share PRENBSP project file:
+prenbsp.pbp
+
+# Exclude PRENBSP auto-generated files:
+*.ascii.inc
+# ==============================================================================
+#                               EXCLUSION DEFAULTS                              
+# ==============================================================================
+# All files that should be excluded from Git tracking based on their extensions.
+# https://www.gitignore.io/api/purebasic
+
+
+# ======================= PureBasic Configuration Files ========================
+*.pb.cfg
+*.pbi.cfg
+project.cfg
+
+# ============================== Shared libraries ==============================
+*.so
+*.dylib
+*.dll
+
+# ============================= Binary Executables =============================
+*.exe
+*.app
